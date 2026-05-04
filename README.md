@@ -27,7 +27,7 @@ quant-econ-mlr-project/
 | Problem 1 | House Price Study | TBD |
 | Problem 2 | Battery Life Experiment | TBD |
 | Problem 3 | River Pollution Study | TBD |
-| Problem 4 | Hospital Patient Satisfaction | TBD |
+| Problem 4 | Hospital Patient Satisfaction | Josiah |
 
 > Update this table with your names once assignments are decided.
 
